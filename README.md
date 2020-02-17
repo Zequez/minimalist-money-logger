@@ -79,22 +79,12 @@ automatically.
 - [Elm Community](https://github.com/elm-community) (using list-extra)
 - [Create Elm App](https://github.com/halfzebra/create-elm-app)
 
-## GNU GPLv3
 
-    Minimalist Money Logger
-    Copyright (C) 2020 Ezequiel Zequez Schwartzman
+## Contributing
 
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
+- Send me an email at `zequez` on Gmail.
+- [Open an issue](https://github.com/Zequez/minimalist-money-logger/issues) for bugs or features discussions
 
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
+## License
 
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>.
-
-Contact me at `zequez` on Gmail.
+Minimalist Money Logger is released under the [GPLv3 License](https://opensource.org/licenses/GPL-3.0)
