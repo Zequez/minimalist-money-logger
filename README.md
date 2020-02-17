@@ -1,6 +1,6 @@
 # Minimalist Money Logger
 
-## It's so simple you actually stick with it
+    A money tracker so simple you actually stick with it
 
 
 ### The Problem
@@ -34,21 +34,21 @@ Exchange Rate USD ARS 61.30
 2020
 Feb
 1
-1500 dentist - Bank -> Odontología Sol
-450 radiography dentist - Bank -> Odontología Sol
-400 fruits & veggies - Maxnic
+1500 dentist. Bank -> Odontología Sol
+450 radiography dentist. Bank -> Odontología Sol
+400 fruits & veggies. Maxnic
 2
-110 tasty things - Festival Veganx
-60 stickers Plaza Mitre - Random Seller
+110 tasty things. Festival Veganx
+60 stickers Plaza Mitre. Random Seller
 3
-190 Ibuprofeno - Farmacia Bauza
-200 coseguro dentist - Odontología Sol
+190 Ibuprofeno. Farmacia Bauza
+200 coseguro dentist. Odontología Sol
 4
-1608 provisions - Bank -> Nutristock
+1608 provisions. Bank -> Nutristock
 5
-100USD->6130 venta dólares - BankUSD -> Bank
+100USD->6130 venta dólares. BankUSD -> Bank
 6
--100USD sponsor payment - Payoneer
+-100USD sponsor payment. Payoneer
 ```
 
 This way was so easy I stuck with for a long period of time.
