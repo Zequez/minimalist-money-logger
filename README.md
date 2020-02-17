@@ -3,7 +3,7 @@
     A money tracker so simple you actually stick with it
 
 
-### The Problem
+## The Problem
 
 On multiple occasions I had the insight that I needed clarity
 in the finantial area of my life. Being unaware of the money
@@ -19,7 +19,7 @@ However it always ends up with the same problem: unless I can
 add the expenses effortlessly, I end up completely abandoning
 the money-tracking efforts.
 
-### What Actually Worked
+## What Actually Worked
 
 The tracking mechanism that I actually stuck to was to have a pinned Google Keep note with my expenses in the following fashion:
 
@@ -56,7 +56,7 @@ However, it doesn't provide much in terms of insight and summaries
 about the money. So it's not very useful. I just needed this, but with
 some way to summarize the whole thing and maybe add colors.
 
-### The Solution
+## The Solution
 
 I recently started developing on the [Elm programming language](https://elm-lang.org/), to create the Civitas Agora project for my community. I've been using [Bulma](http://bulma.io/) for styling and it's been a breeze. So I was feeling very enthusiastic about developing a pet project last Sunday because I'm not allowed to actually work on my main project (gotta give myself some well-deserved play time!)
 
@@ -64,7 +64,7 @@ Anyway, the solution I came up with was to recreate the ease of just writing tex
 with the power to process that text and provide some summaries and insights
 automatically.
 
-### Roadmap
+## Roadmap
 
 - Base functionality with localstorage
 - Host it on Netlify
@@ -72,12 +72,14 @@ automatically.
 - Set it up as PWA
 - Share it with the world
 
-### Related Projects
+## Credits
 
 - [Elm Programming Language](https://elm-lang.org/)
 - [Bulma CSS Framework](https://bulma.io/)
+- [Elm Community](https://github.com/elm-community) (using list-extra)
+- [Create Elm App](https://github.com/halfzebra/create-elm-app)
 
-### GNU GPLv3
+## GNU GPLv3
 
     Minimalist Money Logger
     Copyright (C) 2020 Ezequiel Zequez Schwartzman
